@@ -1,4 +1,4 @@
-### Data Migration and Synchronization of MySQL with Elasticsearch
+### MySQL Database Migration and Synchronization with Elasticsearch
 
 A majority of companies believe that leveraging customer-data is the key to gaining competitive edge. In other words, the more customers you have, more data you are able to gather and analyze, which then allows you to build a better product. 
 For this reason, leading companies invest heavily in database development and building other data infrastructure. More often than not, companies build their essential functionalities around relational databases. This is due to the fact that, relational databases have strict data integrity procedures that keep the integrity of crucial data throughout all database procedures and operations. However, traditional databases are ineffective for the purposes of analytics and implementing full-text search capabilities. Therefore, there is a need for a search engine that allows us to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds.  
